@@ -1,1 +1,1 @@
-# meditron
+# Meditron: Open validation platform
